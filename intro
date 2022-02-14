@@ -1,0 +1,10 @@
+1.create skeleton generic  
+2.properties used :
+      display flex - applied to parent 
+      flex-grow    - divides each spacing 
+      flex-basis    seprates in equal ratio 
+      image-responsive: 
+                      height - auto 
+                      max-width:100%;
+                
+ 
